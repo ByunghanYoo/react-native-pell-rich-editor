@@ -12,11 +12,9 @@
     "url": "https://github.com/stulip/react-native-pell-rich-editor.git"
   },
   "dependencies": {
-
-  },
-
-  "peerDependencies": {
-    "react-native": ">=0.50.0",
     "react-native-webview": "*"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.50.0"
   }
 }

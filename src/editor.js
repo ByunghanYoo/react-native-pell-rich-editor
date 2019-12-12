@@ -1,4 +1,3 @@
-
 //console.log = function (){ postAction({type: 'LOG', data: Array.prototype.slice.call(arguments)});};
 const HTML = `
 <!DOCTYPE html>
@@ -259,6 +258,4 @@ const HTML = `
 </html>
 `;
 
-export {
-    HTML
-}
+export { HTML };
